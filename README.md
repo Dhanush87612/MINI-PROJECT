@@ -58,7 +58,9 @@ Software and Tools
     SIM800C AT command interface
     Proteus or equivalent simulation tool (optional, if used)
 
-System Block Diagram
+System Block Diagram<img width="1774" height="887" alt="690267037-a3e93851-5327-4e50-97e2-fc3a13c01de7" src="https://github.com/user-attachments/assets/30367804-552f-4f09-b324-8f9a73d3c946" />
+
+
 GSM Plant Monitoring and Pump Control Diagram
 
 Signal summary: The SIM800C and LPC2129 communicate through UART0; the soil sensor provides a digital input; the LCD receives 4-bit data and control signals; and P0.8/P0.9 control an external motor-driver stage.
