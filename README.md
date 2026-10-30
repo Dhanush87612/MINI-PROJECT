@@ -58,7 +58,8 @@ Software and Tools
     SIM800C AT command interface
     Proteus or equivalent simulation tool (optional, if used)
 
-System Block Diagram<img width="1774" height="887" alt="690267037-a3e93851-5327-4e50-97e2-fc3a13c01de7" src="https://github.com/user-attachments/assets/30367804-552f-4f09-b324-8f9a73d3c946" />
+System Block Diagram<img <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/7179c69a-85d4-4090-ad61-4c6355ad926b" />
+
 
 
 GSM Plant Monitoring and Pump Control Diagram
